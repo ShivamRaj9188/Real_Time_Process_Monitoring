@@ -37,6 +37,8 @@ def show_start():
 
 show_start()
 
+
+
 # Calculate average of a list
 def get_avg(stuff):
     if len(stuff) == 0:
@@ -48,6 +50,8 @@ def get_avg(stuff):
 
 def log_stuff(data):
     return data * 2
+
+
 
 # Draw the CPU and memory graphs
 def draw_graphs():
@@ -112,6 +116,7 @@ def watch_system():
                 cpu_data.pop(0)
                 memory_data.pop(0)
 
+            
             cpu_check(cpu)
             memory_check(mem)
 
