@@ -25,7 +25,7 @@ This is our CSE316 project at Lovely Professional University. It’s a tool that
 ## Who Did It
 - **Member 1:** Data Collection.
 - **Member 2:** Visualization.
-- **Me:** Monitoring & Alerts.
+- **Me:** Monitoring & Alerts
 
 ## What We Used
 - **Python** and these libraries:
