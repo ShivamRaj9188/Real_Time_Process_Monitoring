@@ -10,10 +10,14 @@ This is our CSE316 project at Lovely Professional University. It’s a tool that
 ## How to Run It
 1. Get Python 3 (from python.org if you don’t have it).
 2. Install stuff:
-
+   ```bash
+   pip install psutil matplotlib numpy ipython
+   ```
 3. Download the files from this repo.
 4. Run:
-
+   ```bash
+   python monitoring_alerts.py
+   ```
 
 ## The Parts
 - **Data Collection (`data_collection.py`):** Grabs CPU and memory numbers.
